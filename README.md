@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ramathatchana M
+# 👋 Hi, I'm Ramathatchana
  🎓 Computer Science Student | 💻 Aspiring Software Developer | 🤖 ML Enthusiast<br><br>
 
 ## 🚀 About Me
