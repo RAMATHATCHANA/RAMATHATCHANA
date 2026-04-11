@@ -1,6 +1,15 @@
-# 💫 About Me:
- 👋 About Me<br><br>Hi! I'm Ramathatchana M, a Computer Science student passionate about technology, programming, and building useful applications. I enjoy learning new tools, solving coding problems, and working on projects that improve my development skills.<br><br>🔭 I’m currently working on<br>Web development projects using React and modern JavaScript<br>Improving my problem-solving skills through coding practice<br>
+# 👋 Hi, I'm Ramathatchana M
+ 🎓 Computer Science Student | 💻 Aspiring Software Developer | 🤖 ML Enthusiast<br><br>
 
+## 🚀 About Me
+I am a passionate Computer Science student with a strong interest in building scalable applications and solving real-world problems through technology.<br><br>
+I enjoy exploring new tools, writing clean and efficient code, and continuously improving my problem-solving abilities. My focus is on developing both strong fundamentals and practical project experience.<br><br>
+
+## 🔭 Current Focus
+- Building modern web applications using **React & JavaScript**
+- Strengthening **Data Structures & Algorithms**
+- Exploring **Machine Learning & AI fundamentals**
+- Working on hands-on projects to improve real-world development skills
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramathatchana-m-8027a1315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rthatchana.cse@gmail.com) 
